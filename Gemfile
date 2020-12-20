@@ -36,16 +36,23 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'hirb'
 
 gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'capybara'
+  gem 'database_cleaner'
+  gem 'rspec-rails'
 end
 
 group :test do
+  gem 'chromedriver-helper', require: false
   gem 'rspec'
+  gem 'selenium-webdriver', require: false
+  gem 'webdrivers'
 end
 
 group :development do

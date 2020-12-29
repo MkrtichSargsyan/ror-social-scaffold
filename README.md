@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-TBA
+<a href= "https://social-scaffold01.herokuapp.com/" target="_blank">Live version</a>
 
 
 ## Getting Started

@@ -10,10 +10,6 @@
 - Ruby v2.7.0
 - Ruby on Rails v5.2.4
 
-## Live Demo
-
-<a href= "https://social-scaffold01.herokuapp.com/" target="_blank">Live version</a>
-
 
 ## Getting Started
 

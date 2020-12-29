@@ -8,7 +8,8 @@
 ## Built With
 
 - Ruby v2.7.0
-- Ruby on Rails v5.2.4
+- Ruby on Rails 
+- VS Code
 
 
 ## Getting Started
@@ -17,9 +18,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Ruby: 2.6.3
-Rails: 5.2.3
-Postgres: >=9.5
+Ruby
+Rails
+Postgres
 
 ### Setup
 
@@ -64,13 +65,16 @@ Open `http://localhost:3000/` in your browser.
 
 > Tests will be added by Microverse students. There are no tests for initial features in order to make sure that students write all tests from scratch.
 
-### Deployment
 
-TBA
+## Author
 
-## Authors
+👤 **Mkrtich Sargsyan**
 
-TBA
+
+[<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/MkrtichSargsyan)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"></code>](https://twitter.com/MkrtichSargsyan)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></code>](https://www.linkedin.com/in/mkrtich-sargsyan/)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg"></code>](mailto:mkrtichsargsyan24@gmail.com)
 
 ## 🤝 Contributing
 
